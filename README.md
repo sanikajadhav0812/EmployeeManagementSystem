@@ -99,5 +99,5 @@ This is an Employee Management System built using Spring Boot and MySQL. It allo
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Name:** Tejas Birajdar
-- **Email:** tejasbirajdar.skn.comp@gmail.com
+- **Name:** Sanika Jadhav
+- **Email:** sanikajadhav.skn.comp@gmail.com
